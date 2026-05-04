@@ -48,15 +48,15 @@ A machine learning model is trained on student data and deployed as a web app us
 ## 📷 Demo Screenshots
 
 ### 🖥️ Full App Interface
-![App UI](images/full_screen_layout.jpeg)
+![App UI](Student Performance Prediction System (ML Web App)/Screenshots/full_screen_layout.jpeg)
 
 ### 📥 Input Section
-![Input Section](images/Input_Section.jpeg)
+![Input Section](Student Performance Prediction System (ML Web App)/Screenshots/Input_Section.jpeg)
 
 ### 📊 Prediction Result
-![Prediction Result](images/Prediction_Result.jpeg)
+![Prediction Result](Student Performance Prediction System (ML Web App)/Screenshots/Prediction_Result.jpeg)
 
 ### 📜 Prediction History
-![Prediction History](images/Prediction_history.jpeg)
+![Prediction History](Student Performance Prediction System (ML Web App)/Screenshots/Prediction_history.jpeg)
 
 ---
